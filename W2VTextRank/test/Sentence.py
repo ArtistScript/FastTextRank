@@ -1,7 +1,7 @@
 from W2VTextRank.W2VTextRank4Sentence import W2VTextRank4Sentence
 import codecs
 import datetime
-mod = W2VTextRank4Sentence(use_w2v=True,dict_path="../W2VDict/60Demension/Word60.model",tol=0.0001)
+mod = W2VTextRank4Sentence(use_w2v=False,tol=0.0001)
 # with open("text1.txt", "r", encoding='utf-8') as myfile:
 old_time = datetime.datetime.now()
 for i in range(10):
