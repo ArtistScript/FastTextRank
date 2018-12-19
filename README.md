@@ -1,3 +1,19 @@
+# 快速文本摘要及关键词提取
+从中文文本中提取摘要及关键词，并对算法时间复杂度进行了修改，使其运行速度相比于textrank4zh这个包快了8倍。[算法原理见知乎文章](https://zhuanlan.zhihu.com/p/41241390)
+## 安装
+Numpy>=1.14.5
+gensim>=3.5.0
+pip install FastTextRank==1.1
+
+## 使用
+详情请见./FastTextRank/test文件夹
+KeyWord.py：提取关键字示例
+Sentence.py：提取摘要示例
+
+## 额外
+如有优化点，欢迎pull requests
+如有问题，欢迎提issues
+
 # FastTextRank
 Extract abstracts and keywords from Chinese text, use *optimized iterative algorithms* to improve running **speed**, and *selectively use word vectors* to improve **accuracy**.
 ## PageRank
@@ -7,7 +23,7 @@ This algorithm can caculate all node's importance by their connections.<br/>
 * My algorithm changed the iterative algorithm to make the algorithm much faster, it costs 10ms per article, on the mean while TextRank4ZH costs 80ms on my data.<br/>
 * My algorithm also use word2vec to make the abstract more accurate, but it will cost more time to run the algorithm. Using word2vec costs 40ms per article on the same traning data.
 
-## W2VTextRank4Sentence
+## FastTextRank4Sentence
 ### Introduction
 1. Cut article into sentence
 2. Calculate similarity between sentences:
@@ -26,7 +42,7 @@ If it is True, you must input passing dict_path parameter.
 * max_iter:maximum iteration round
 * tol: maximum tolerance error
 
-## W2VTextRank4Word
+## FastTextRank4Word
 
 ### Introduction
 1. Cut artile into word
