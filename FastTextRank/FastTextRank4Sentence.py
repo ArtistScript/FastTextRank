@@ -5,14 +5,14 @@ from string import punctuation
 from heapq import nlargest
 from itertools import product, count
 from gensim.models import Word2Vec
-from W2VTextRank import util
+from FastTextRank import util
 import numpy as np
 import os
 import codecs
 from itertools import count
 
-class W2VTextRank4Sentence(object):
-    def __init__(self, use_stopword = False, stop_words_file=None, use_w2v=True, dict_path=None,max_iter=100,tol=0.0001):
+class FastTextRank4Sentence(object):
+    def __init__(self, use_stopword = False, stop_words_file=None, use_w2v=False, dict_path=None,max_iter=100,tol=0.0001):
         """
 
         :param use_stopword: 是否使用停用词

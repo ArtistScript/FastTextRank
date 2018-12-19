@@ -5,13 +5,13 @@ from string import punctuation
 from heapq import nlargest
 from itertools import product, count
 from gensim.models import Word2Vec
-from W2VTextRank import util
+from FastTextRank import util
 import numpy as np
 import os
 from itertools import count
 import codecs
 
-class W2VTextRank4Word(object):
+class FastTextRank4Word(object):
     def __init__(self,use_stopword=True,stop_words_file=None,max_iter=100,tol=0.0001,window=2):
         """
         :param max_iter: 最大的迭代轮次
