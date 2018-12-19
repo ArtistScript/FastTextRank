@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KeyWord.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="KeyWord.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FastTextRank/test/KeyWord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state>
+              <caret selection-end-column="60" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -35,8 +35,8 @@
       <file leaf-file-name="FastTextRank4Word.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Word.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="55" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="55" />
+            <state relative-caret-position="325">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="23" />
               <folding>
                 <element signature="e#24#36#0" expanded="true" />
               </folding>
@@ -44,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FastTextRank4Sentence.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FastTextRank4Sentence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Sentence.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
@@ -129,7 +129,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="84" />
     <option name="y" value="181" />
     <option name="width" value="1624" />
@@ -635,26 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FastTextRank/test/KeyWord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="e#24#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FastTextRank/test/Sentence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -671,6 +651,26 @@
           <caret line="13" column="27" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FastTextRank/test/KeyWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="60" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
