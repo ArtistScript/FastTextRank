@@ -6,13 +6,13 @@ gensim>=3.5.0
 pip install FastTextRank==1.1
 
 ## 使用
-详情请见./FastTextRank/test文件夹
-KeyWord.py：提取关键字示例
-Sentence.py：提取摘要示例
+详情请见./FastTextRank/test文件夹<br/>
+KeyWord.py：提取关键字示例<br/>
+Sentence.py：提取摘要示例<br/>
 
 ## 额外
-如有优化点，欢迎pull requests
-如有问题，欢迎提issues
+如有优化点，欢迎pull requests<br/>
+如有问题，欢迎提issues<br/>
 
 # FastTextRank
 Extract abstracts and keywords from Chinese text, use *optimized iterative algorithms* to improve running **speed**, and *selectively use word vectors* to improve **accuracy**.
