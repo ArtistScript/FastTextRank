@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9938b5b0-baf5-4c13-a384-2f01f0b82ec2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/W2VTextRank4ZH$Sentence__1_.coverage" NAME="Sentence (1) Coverage Results" MODIFIED="1545309308534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FastTextRank/test" />
+    <SUITE FILE_PATH="coverage/W2VTextRank4ZH$Sentence.coverage" NAME="Sentence Coverage Results" MODIFIED="1533284345101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/W2VTextRank/test" />
+    <SUITE FILE_PATH="coverage/W2VTextRank4ZH$KeyWord__1_.coverage" NAME="KeyWord (1) Coverage Results" MODIFIED="1545309293304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FastTextRank/test" />
+    <SUITE FILE_PATH="coverage/W2VTextRank4ZH$KeyWord.coverage" NAME="KeyWord Coverage Results" MODIFIED="1533284330535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/W2VTextRank/test" />
+    <SUITE FILE_PATH="coverage/W2VTextRank4ZH$W2VTextRank4Word.coverage" NAME="W2VTextRank4Word Coverage Results" MODIFIED="1533042035241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/W2VTextRank" />
+    <SUITE FILE_PATH="coverage/W2VTextRank4ZH$W2VTextRank4Sentence.coverage" NAME="W2VTextRank4Sentence Coverage Results" MODIFIED="1533090385912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/W2VTextRank" />
+    <SUITE FILE_PATH="coverage/W2VTextRank4ZH$util.coverage" NAME="util Coverage Results" MODIFIED="1533036501499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/W2VTextRank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FastTextRank/test/KeyWord.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Word.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Sentence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FastTextRank/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FastTextRank/test/text1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FastTextRank/test/Sentence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>model</find>
+      <find>build_word</find>
+      <find>filter</find>
+      <find>combi</find>
+      <find>replace</find>
+      <find>cosine_similarity</find>
+      <find>build_word_grah</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/W2VTextRank4/util.py" />
+        <option value="$PROJECT_DIR$/W2VTextRank/cankao.py" />
+        <option value="$PROJECT_DIR$/W2VTextRank/cmd" />
+        <option value="$PROJECT_DIR$/W2VTextRank/__init__.py" />
+        <option value="$PROJECT_DIR$/W2VTextRank/util.py" />
+        <option value="$PROJECT_DIR$/W2VTextRank/test/KeyWord.py" />
+        <option value="$PROJECT_DIR$/W2VTextRank/test/Sentence.py" />
+        <option value="$PROJECT_DIR$/W2VTextRank/W2VTextRank4Sentence.py" />
+        <option value="$PROJECT_DIR$/W2VTextRank/W2VTextRank4Word.py" />
+        <option value="$PROJECT_DIR$/FastTextRank/test/Sentence.py" />
+        <option value="$PROJECT_DIR$/FastTextRank/test/KeyWord.py" />
+        <option value="$PROJECT_DIR$/FastTextRank/__init__.py" />
+        <option value="$PROJECT_DIR$/FastTextRank/FastTextRank4Word.py" />
+        <option value="$PROJECT_DIR$/FastTextRank/FastTextRank4Sentence.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="84" />
+    <option name="y" value="181" />
+    <option name="width" value="1624" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="W2VTextRank4ZH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W2VTextRank4ZH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="W2VTextRank4ZH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W2VTextRank4ZH" type="462c0819:PsiDirectoryNode" />
+              <item name="FastTextRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="W2VTextRank4ZH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W2VTextRank4ZH" type="462c0819:PsiDirectoryNode" />
+              <item name="FastTextRank" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\python_project\W2VTextRank4ZH\W2VTextRank" />
+      <recent name="D:\project\python_project\W2VTextRank4ZH\W2VTextRank\W2VDict" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Sentence (1)">
+    <configuration name="KeyWord (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W2VTextRank4ZH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FastTextRank/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FastTextRank/test/KeyWord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KeyWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W2VTextRank4ZH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program files\python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/W2VTextRank/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/W2VTextRank/test/KeyWord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sentence (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W2VTextRank4ZH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FastTextRank/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FastTextRank/test/Sentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W2VTextRank4ZH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program files\python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/W2VTextRank/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/W2VTextRank/test/Sentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="W2VTextRank4Sentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W2VTextRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/W2VTextRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/W2VTextRank/W2VTextRank4Sentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.W2VTextRank4Sentence" />
+      <item itemvalue="Python.KeyWord" />
+      <item itemvalue="Python.Sentence" />
+      <item itemvalue="Python.KeyWord (1)" />
+      <item itemvalue="Python.Sentence (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sentence (1)" />
+        <item itemvalue="Python.KeyWord (1)" />
+        <item itemvalue="Python.Sentence" />
+        <item itemvalue="Python.KeyWord" />
+        <item itemvalue="Python.W2VTextRank4Sentence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9938b5b0-baf5-4c13-a384-2f01f0b82ec2" name="Default" comment="" />
+      <created>1533005973303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533005973303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13540569" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42529988" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39928058" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/W2VTextRank4/util.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/W2VDict/60维/检验向量质量.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/cmd" />
+    <entry file="file://D:/Program files/python36/Lib/site-packages/textrank4zh/TextRank4Sentence.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/__init__.py" />
+    <entry file="file://D:/Program files/python36/Lib/site-packages/smart_open/smart_open_lib.py" />
+    <entry file="file://D:/Program files/python36/Lib/site-packages/gensim/utils.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/stopwords.txt" />
+    <entry file="file://D:/Program files/python36/Lib/site-packages/textrank4zh/util.py" />
+    <entry file="file://D:/Program files/python36/Lib/site-packages/textrank4zh/TextRank4Keyword.py" />
+    <entry file="file://D:/Program files/python36/Lib/site-packages/textrank4zh/Segmentation.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/cankao.py" />
+    <entry file="file://D:/Program files/python36/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/util.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/test/Sentence.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/W2VTextRank4Sentence.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/W2VTextRank4Word.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/FastTextRank4Sentence.py" />
+    <entry file="file://$PROJECT_DIR$/W2VTextRank/test/KeyWord.py" />
+    <entry file="file://$PROJECT_DIR$/FastTextRank/test/KeyWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FastTextRank/FastTextRank4Sentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FastTextRank/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FastTextRank/test/Sentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FastTextRank/test/text1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

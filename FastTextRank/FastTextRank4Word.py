@@ -27,8 +27,9 @@ class FastTextRank4Word(object):
         self.__stop_words_file = self.get_default_stop_words_file()
         if type(stop_words_file) is str:
             self.__stop_words_file = stop_words_file
-        for word in codecs.open(self.__stop_words_file, 'r', 'utf-8', 'ignore'):
-            self.__stop_words.add(word.strip())
+        if use_stopword:
+            for word in codecs.open(self.__stop_words_file, 'r', 'utf-8', 'ignore'):
+                self.__stop_words.add(word.strip())
         # Print a RuntimeWarning for all types of floating-point errors
         np.seterr(all='warn')
 
