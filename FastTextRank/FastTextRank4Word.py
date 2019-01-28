@@ -12,7 +12,7 @@ from itertools import count
 import codecs
 
 class FastTextRank4Word(object):
-    def __init__(self,use_stopword=True,stop_words_file=None,max_iter=100,tol=0.0001,window=2):
+    def __init__(self,use_stopword=False,stop_words_file=None,max_iter=100,tol=0.0001,window=2):
         """
         :param max_iter: 最大的迭代轮次
         :param tol: 最大的容忍误差
